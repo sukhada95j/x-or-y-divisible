@@ -1,1 +1,1 @@
-# x-or-y-divisible
+# is x-and-y-divisible?
